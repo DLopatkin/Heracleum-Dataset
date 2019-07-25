@@ -21,4 +21,4 @@ Image with mask
 
 ## Links
 
-Google Drive: [link](https://drive.google.com/open?id=1SlnazXTTtB3KA9u9opCA8AsF_f1U26Gp)
+Google Drive: [link](https://drive.google.com/drive/folders/1SlnazXTTtB3KA9u9opCA8AsF_f1U26Gp?usp=sharing)

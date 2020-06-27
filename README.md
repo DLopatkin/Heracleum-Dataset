@@ -2,6 +2,11 @@
 
 Dataset of aerial images of hogweed gathered in Moscow Region.
 
+Repository structure:
+
+* images - Folder with aerial images of hogweed
+* masks - Folder with masks for image segmentation task.
+
 ## Data Description
 
 This dataset contains 263 aerial images of hogweed, obtained in Moscow Region. Images are captured with DJI Phantom 3 drone, DJI Mavic Pro drone, and Xiaomi Yi action camera. Images can be split into 3 groups by the number of instances on them:
